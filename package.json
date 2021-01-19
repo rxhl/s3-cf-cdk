@@ -25,6 +25,7 @@
     "@aws-cdk/aws-cloudfront-origins": "^1.84.0",
     "@aws-cdk/aws-s3": "^1.84.0",
     "@aws-cdk/aws-s3-deployment": "^1.84.0",
+    "@aws-cdk/aws-wafv2": "^1.85.0",
     "@aws-cdk/core": "1.84.0",
     "source-map-support": "^0.5.16"
   }

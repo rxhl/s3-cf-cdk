@@ -1,6 +1,6 @@
 # s3-cf-cdk
 
-S3-CloudFront static app in CDK.
+Static site hosting with S3 + CloudFront + WAF.
 
 ```
 $ npm run build   # compile typescript to js
